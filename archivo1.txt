@@ -3,3 +3,5 @@ Contenido agregado en la rama2
 Contenido agregado en la rama1
 Segundo contenido agregado en la rama1
 Contenido adicional en repositorio local
+Contenido adicional en rama-remoto
+Contenido adicional rama3-local
